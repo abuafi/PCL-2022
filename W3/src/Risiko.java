@@ -27,7 +27,7 @@ public class Risiko {
         }
         for (j = h + 1 ; j <= k ; j++) {
             // j is largest
-            for (int i = 1 ; i <= Math.max(s-1, n) ; i++) {
+            for (int i = 1 ; i <= s-1 ; i++) {
                 // i results of number j
                 tot += choose(n, i) * SHighestH(j-1, n-i, h,s-i);
             }
