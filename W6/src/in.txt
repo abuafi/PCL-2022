@@ -1,14 +1,5 @@
-10 3
-rumination
-alienation
-national
-prespiration
-convolution
-nation
-notional
-capital
-whateverz
-suffixation
-nation
-l
-erz
+4
+10 101
+6 110
+5 11
+6 0011
